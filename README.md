@@ -1,1 +1,1 @@
-# Fire-Ball-3D clone(Example for my resume)
+# Fire Ball 3D clone (Example for my resume)
