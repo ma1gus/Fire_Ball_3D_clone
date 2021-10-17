@@ -1,2 +1,1 @@
-# Fire-Ball-3D
-Android casual game
+# Fire-Ball-3D clone(Example for my resume)
